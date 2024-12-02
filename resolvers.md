@@ -15,3 +15,6 @@ sdns://AgEAAAAAAAAABzEuMS4xLjEAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 ## [Cloudflare][DoT]
 sdns://AwAAAAAAAAAABzEuMS4xLjEAAA
+
+## [NextDNS][DoH][eb72f7]
+sdns://AgEAAAAAAAAAAAAOZG5zLm5leHRkbnMuaW8HL2ViNzJmNw
